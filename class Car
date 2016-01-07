@@ -1,0 +1,12 @@
+class Car
+  def go
+    puts "Vroom!!!!!!"
+
+    end
+end
+
+car = Car.new
+
+car.go
+car.go
+car.go
